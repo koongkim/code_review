@@ -1,4 +1,4 @@
-#include "./shopping.h"
+#include "shopping.h"
 #include <gtest/gtest.h>
 
 // TEST (testCaseName, testName){
